@@ -238,3 +238,6 @@ This repository serves as the official landing page for myTuner Radio. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of myTuner Radio today!**
+
+---
+**Last updated:** 2026-09-11 16:50:57 UTC
